@@ -22,6 +22,7 @@ body {
     background-color: #d5d5d6;
     border-radius: 5px;
     box-shadow: 1px 1px 3px -1px rgb(0, 0, 0, .7);
+    overflow: hidden;
 }
 
 .toolbar__item {
